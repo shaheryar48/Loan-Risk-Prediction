@@ -41,8 +41,6 @@ Extra Trees
 
 MLP (Neural Network)
 
-# 📌 Data imbalance is handled using SMOTE (Synthetic Minority Oversampling Technique).
-
 ## 📊 Model evaluation includes:
 
 Accuracy
@@ -52,6 +50,8 @@ F1 Score
 ROC Curve / AUC
 
 Cross-validation with stratified folds
+
+# #📌 Data imbalance is handled using SMOTE (Synthetic Minority Oversampling Technique).
 
 
 
