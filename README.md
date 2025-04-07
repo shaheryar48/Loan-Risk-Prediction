@@ -51,7 +51,7 @@ ROC Curve / AUC
 
 Cross-validation with stratified folds
 
-# #📌 Data imbalance is handled using SMOTE (Synthetic Minority Oversampling Technique).
+## 📌 Data imbalance is handled using SMOTE (Synthetic Minority Oversampling Technique).
 
 
 
